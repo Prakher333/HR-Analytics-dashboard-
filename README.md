@@ -30,6 +30,11 @@ The dashboard enables organizations to monitor employee trends and make strategi
 
 ---
 
+# 📸 Dashboard Preview
+
+<img src="https://github.com/Prakher333/HR-Analytics-dashboard-/blob/main/Screenshot%202026-05-18%20001049.png" width="1000"/>
+
+
 # 📈 Key Insights
 
 - Highest attrition observed among employees aged **26–35**
@@ -37,12 +42,6 @@ The dashboard enables organizations to monitor employee trends and make strategi
 - Employees with Life Sciences background contributed highest attrition percentage
 - Dashboard analyzed **1480 employees** and **238 attritions**
 - Attrition rate recorded at **16.1%**
-
----
-
-# 📸 Dashboard Preview
-
-<img src="hr-dashboard.png" width="1000"/>
 
 ---
 
